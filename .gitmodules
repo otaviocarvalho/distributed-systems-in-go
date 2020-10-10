@@ -1,0 +1,3 @@
+[submodule "distributed-systems-labs-exercises/cos-518-with-epaxos/cos518"]
+	path = distributed-systems-labs-exercises/cos-518-with-epaxos/cos518
+	url = https://robinyqiu@bitbucket.org/robinyqiu/cos518.git
